@@ -43,15 +43,14 @@ The buzz length and frequency are calculated based on the distance measured by t
 
 ## Components
 
-![Device Photo](imgs/photo.png)
+<p float="left">
+  <img src="imgs/photo.png" width="200" />
+  <img src="imgs/sketch.png" width="100" /> 
+</p>
 
 - Arduino Nano
 - Ultrasonic Sensor (HC-SR04)
 - Buzzer
 - Breadboard
-- Power Source:
+- Power Source
 - Battery holder, flexible strap and triglide slides to make the device wearable
-
-## Device Scheme
-
-![Device Scheme](imgs/sketch.png)
