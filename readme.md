@@ -44,8 +44,8 @@ The buzz length and frequency are calculated based on the distance measured by t
 ## Components
 
 <p float="left">
-  <img src="imgs/photo.png" width="200" />
-  <img src="imgs/sketch.png" width="100" /> 
+  <img src="imgs/photo.png" width="350" />
+  <img src="imgs/sketch.png" width="350" /> 
 </p>
 
 - Arduino Nano
